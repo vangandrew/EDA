@@ -12,4 +12,4 @@ git clone https://github.com/vangandrew/EDA.git
 
 ## Usage 
 
-This project goes into the details of deaths all around the world. However, in this case we are only interested in the United States data. It gives us specifics of numbers and goes over a graph of the total deaths that correlated with each year. It also shows us the increase of morality rates for each year. To view the file, open the "us_data.ipynb" file in your web browser of choice.
+This project goes into the details of deaths all around the world. However, in this case we are only interested in the United States data. It gives us specifics of numbers and goes over a graph of the total deaths that correlated with each year. It also shows us the increase of morality rates for each year. To view the file, open the "us_death.ipynb" file in your web browser of choice.
